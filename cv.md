@@ -6,10 +6,12 @@
 * Email: <a.a.nagornyj@gmail.com>
 * [Telegram](https://t.me/alekseevitch)
 * [GitHub](https://github.com/alekseevitch)
+
 ---
 ### Education ###
 * 2019-until now: Information Systems and Technologies in university GSTU, Gomel.
 * 2020: Self-education: Courses HTML, CSS, JavaScript on Sololearn.
+
 ---
 ### About me ###
 I am a third year student in a GSTU named Sukhogo at Information Systems and Technologies, and after graduate, 
@@ -18,6 +20,7 @@ My personal qualities:
 * Accurate
 * Hardworker
 * Organized
+
 ---
 ### Experience ###
 I do not have really experience in developement, but i wantit to get it.  
@@ -29,6 +32,7 @@ In process of education in university I am studying this technologies:
 * C#, ASP.NET
 * SQL
 * HTML, CSS, JS
+
 ---
 ### Code Examples ###
 
