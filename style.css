@@ -40,15 +40,17 @@ header {
       display: flex;
   }
 
-  #contacts-block {
-      width: 200px;
-      text-align: left;
-      list-style-type: none;
-
+  #right-section {
+     border-left-style: solid;
+     border-left-color: black;
+     border-left-width: 1.1px;
   }
 
-  #right-section {
-    list-style-type: none;
+  #contacts-block {
+      vertical-align: middle;
+      width: 240px;
+      text-align: left;
+      list-style-type: none;
   }
 
   .icon {
